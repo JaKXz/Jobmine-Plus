@@ -13,8 +13,6 @@ Preinstall and Setup Eclipse
 
 Importing the project
 ---------------------
-1. Clone the repository (you probably did this)
-    - git clone https://jobmineplus@bitbucket.org/jobmineplus/jobmineplus.git
 2. Go to the folder where the project is
     - [.../jobmineplus/mobile/android/]
     - Rename ".project.sample" to ".project"
@@ -35,6 +33,4 @@ Importing the project
         - Click "Add Folder..." click "gen" and "src" and click OK
         - Note if you don't see "gen", you need to do step 5 again
     - Exit the dialog by clicking OK
-7. You can clean (Project->Clean...) or/and you can try building
-
-Any problems email me at jobmineplus@gmail.com
+7. You can clean (Project->Clean...) and/or you can try building
